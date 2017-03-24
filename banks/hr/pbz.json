@@ -1,0 +1,12 @@
+{
+  "name": "pbz",
+  "country": "hr",
+  "localTitle": "Privredna Banka Zagreb",
+  "engTitle": "PBZ",
+  "url": "https://www.pbz.hr",
+  "color": "#f4772a",
+  "prefixes": [
+    426733,
+    457418
+  ]
+}

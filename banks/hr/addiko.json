@@ -1,0 +1,12 @@
+{
+  "name": "addiko",
+  "country": "hr",
+  "localTitle": "Addiko Bank",
+  "engTitle": "Addiko Bank",
+  "url": "https://www.addiko.hr/",
+  "color": "#ff4d5a",
+  "prefixes": [
+    432566,
+    531152
+  ]
+}
